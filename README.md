@@ -10,7 +10,8 @@
 - [Spark Offical Site](http://spark.apache.org/)
 - [大数据平台：Hadoop-3.x + Spark-2.x + Hive-2.x + Hbase-1.4 + Cassandra + ES 环境配置](https://blog.csdn.net/lovebyz/article/details/83346458)
 - [子雨大数据之Spark入门教程(Python版)](http://dblab.xmu.edu.cn/blog/1709-2/)
-- [Python 实践](https://www.cnblogs.com/miqi1992/p/8082471.html)
+- [Python学习指南+实践](https://www.cnblogs.com/miqi1992/p/8082471.html)
+
 
 ## 任务列表 (2019-05-03 ~ 2019-06-30)
 - [X] 重温 hadoop 基本原理及架构设计
